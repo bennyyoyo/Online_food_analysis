@@ -59,4 +59,4 @@ The analysis is contained in a Jupyter Notebook (`online_food_order.ipynb`) with
 
 
 ## License
-This project is open source and available under the https://github.com/bennyyoyo/Online_food_analysis
+This project is open source and available under the [https://github.com/bennyyoyo/Online_food_analysis](https://github.com/bennyyoyo/Online_food_analysis/blob/main/online%20food%20ordder.ipynb)
